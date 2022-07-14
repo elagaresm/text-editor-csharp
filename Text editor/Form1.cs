@@ -131,5 +131,10 @@ namespace Text_editor
         {
             saveToolStripButton.PerformClick();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
